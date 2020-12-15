@@ -1,0 +1,9 @@
+C:\Users\ecravcenco\source\repos\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.deps.json
+C:\Users\ecravcenco\source\repos\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.dll
+C:\Users\ecravcenco\source\repos\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\ecravcenco\source\repos\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\ecravcenco\source\repos\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\ecravcenco\source\repos\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.pdb
+C:\Users\ecravcenco\source\repos\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ecravcenco\source\repos\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.dll
+C:\Users\ecravcenco\source\repos\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.pdb
